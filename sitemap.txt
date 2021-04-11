@@ -3,4 +3,5 @@ https://wish.kamistik.com/404
 https://wish.kamistik.com/sitemap.txt
 https://wish.kamistik.com/robots.txt
 https://wish.kamistik.com/her2b.jpg
+https://wish.kamistik.com/her2b.webp
 https://wish.kamistik.com/pasta2b.txt
