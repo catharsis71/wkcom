@@ -1,5 +1,4 @@
 https://wish.kamistik.com/
-https://wish.kamistik.com/404
 https://wish.kamistik.com/nope.txt
 https://wish.kamistik.com/rightframe
 https://wish.kamistik.com/robots.txt
